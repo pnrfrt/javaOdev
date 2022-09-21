@@ -15,8 +15,7 @@ public class Main {
 		
 		if(sayi<15) {
 			System.out.println("sayı 20 den küçüktür");
-		
-		}
+	}
 	}
 
 }
